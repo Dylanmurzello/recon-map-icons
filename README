@@ -1,0 +1,17 @@
+# Recon Map Icons – Tactical Deployment Set
+
+This repository contains a clean, structured set of tactical map icons, color-coded for operational deployment in mapping systems like Google Earth, KML/KMZ files, and GIS applications.
+
+## Structure
+
+- **/yellow/** – Venues, hotels, and general low-risk points of interest
+- **/red/** – Hospitals, trauma centers, emergency response nodes
+- **/purple/** – Embassy and consulate locations for international coordination
+
+Each color folder contains numbered icons (`number_1.png` through `number_30.png`) for flexible assignment.
+
+## Usage
+
+You can reference these icons directly via GitHub RAW links for use in KML, KMZ, or mapping software:
+
+Example (Yellow Icon #1):
